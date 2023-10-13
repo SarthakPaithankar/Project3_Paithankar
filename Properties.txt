@@ -1,0 +1,44 @@
+Mediterranean Avenue,60,50,2
+Baltic Avenue,60,50,4
+Oriental Avenue,100,50,1501
+Vermont Avenue,100,50,6
+Connecticut Avenue,120,50,8
+St. Charles Place,140,100,10
+States Avenue,140,100,10
+Virginia Avenue,160,100,12
+St. James Place,180,100,14
+Tennessee Avenue,180,100,14
+New York Avenue,200,100,16
+Kentucky Avenue,220,150,18
+Indiana Avenue,220,150,18
+Illinois Avenue,240,150,20
+Atlantic Avenue,260,150,22
+Ventnor Avenue,260,150,22
+Marvin Gardens,280,150,24
+Pacific Avenue,300,200,26
+North Carolina Avenue,300,200,26
+Pennsylvania Avenue,320,200,28
+Park Place,350,200,35
+Boardwalk,400,200,50
+Engineering,200,100,16
+UMC,400,200,50
+Folsom Field,60,50,2
+Rec Center,280,150,24
+C4C,60,50,2
+Norlins Library,140,100,14
+Old Main,120,50,8
+Business,100,50,6
+The Hill,400,200,50
+Pearl Street,300,200,26
+Chance,0,0,0
+Chance,0,0,0
+Chance,0,0,0
+Chance,0,0,0
+Start,0,0,0
+Jail,0,0,0
+Park,0,0,0
+Park,0,0,0
+Park,0,0,0
+Tax,0,0,0
+Tax,0,0,0
+Tax,0,0,0

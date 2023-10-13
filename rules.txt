@@ -1,0 +1,28 @@
+                                        ========Game Rules========
+The premise of the game is to Bankrupt all other players
+The game can be played by 2-4 players
+
+1.Buying properties:
+When you land on a property you are allowed to buy, sell, or, build on any of the properties you own.
+To buy a property talk to the Merchant who may have deals for you
+Once you own a property you can build on the Property 
+You can build up to 3 houses on each property
+Building Properties increases the rent other player pay when they land on your property
+
+2.Starting the game 
+Every Player will input a user name and roll the die to determine the order of player
+Every player will recieve $1500 to start the game
+
+3.Chance Card
+When you land on a chance tile you will be prompted to roll a die and you will get a chance card that has that index
+Chance cards can either give or subtract money from you
+
+4.Jail
+If you land on a jail card your turn will be skipped
+
+5.Park
+The park is a tile to get away from all the stresses of life. You will not be able to talk to the merchant at the Park.
+
+Winning
+If a player land on someone's property then they are 
+To win the game you must bankrupt all other players.
